@@ -7,7 +7,7 @@
 ### ECCE App Challenge 2021
 
 
-## **Mission Statement****:**
+## **Mission Statement:**
 
 It is no secret that many Canadians are proud to live in the country that we do. In the big picture, we do have a reason to be. Compared to our next-door neighbour in the South, we employ better social policies, have cheaper cost of education, and of course provide universal healthcare for our citizens, to pick a few differences. It is easy, however, to assume if services are offered at all that they are offered everywhere. Unfortunately, this is not the case for much of rural Canada, and numerous communities face disparity in access to basic services. Among these, indigenous reserves are the most affected, for a variety of reasons.
 
@@ -37,7 +37,7 @@ The second section is a time-series map production that begins in January 2021 a
 
             Our app is structured overall as a scrolling story map, but this does not affect the functionalities of the individual maps. Exploring the dataset is encouraged, especially on the Infrastructure section, as included in the point data is features such as funding amount (in Million $), completion state, and expected outcome.
 
-## **Data Sources:**\
+## **Data Sources:**
 All data accessed and used for this project was obtained from open data centers, listed below is the link to the source and a description of the data:
 
 1. Indigenous Reserve boundaries, Open-Data Canada: <https://open.canada.ca/data/en/dataset/b6567c5c-8339-4055-99fa-63f92114d9e4>
